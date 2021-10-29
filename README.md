@@ -3,9 +3,9 @@
 # My Sites's Live Server [Food-Hub](https://foodhub-1d8f0.web.app/) : (https://foodhub-1d8f0.web.app/).
 
 # My Site description:
- * Gives different type of food service
- * Provide tasty and healthy food
- * Our Main Goal is to feed people
+ * Gives different type of food service delivery.
+ * Provide tasty and healthy food.
+ * Our Main Goal is to feed people.
  * You can purchase and order food.
  * You can manage your own order
  * Admin can manage all people's order.
