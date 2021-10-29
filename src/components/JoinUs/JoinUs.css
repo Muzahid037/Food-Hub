@@ -1,0 +1,22 @@
+.joinus-form input,textarea{
+    display: block;
+    /* margin-top: 30px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    */
+    width: 100%; 
+}
+
+.joinus-form input{
+    /* width: 100%; */
+    /* margin:30px 150px; */
+
+}
+.error{
+    color: red;
+}
+.joinus-submit{
+    background-color:orange;
+    border-radius: 10px;
+}

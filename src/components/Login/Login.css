@@ -1,0 +1,19 @@
+.login-form input {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.login-submit {
+    background-color: rgb(199, 130, 45);
+    border-radius: 20px;
+}
+
+.google-btn {
+    background-color:lightseagreen;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid goldenrod;
+}
